@@ -1,3 +1,5 @@
+## 原博主是杭州电信线路，亲测广东移动使用该ip速度不快。
+
 ## cf-speed-dns是什么?
 CloudflareSpeedTest 推送「每5分钟自选优选 IP」获取Cloudflare CDN 延迟和速度最快 IP ！
 
